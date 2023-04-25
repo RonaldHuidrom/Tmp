@@ -13,10 +13,10 @@ img {
 
 .boxy {
     background-color: #4a13c6;
-    padding: 5px;
+    padding: 10px;
     color: white;
     line-height: 110%;
-    font-size: 120%;
+    font-size: 120%; 
 }
 
 a.linkinsideboxy {
@@ -57,7 +57,7 @@ ul {
 body {
     margin: 0px;
     font-size: 110%;
-    line-height: 130%;
+    line-height: 120%;
 }
 
 [class*='col-'] {
